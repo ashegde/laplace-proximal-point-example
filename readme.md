@@ -1,0 +1,1 @@
+Run with `python example.py --lambd 1.0 --delta 0.1 --N 100 --iters 10000`
